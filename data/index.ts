@@ -4,7 +4,7 @@ export const navItems = [
   // { name: "Testimonials", link: "#testimonials" },
   {
     name: "Resume",
-    link: "https://drive.google.com/file/d/1nGOSMwfwgMVfc7pvYXRZepmYzESI9lls/view?usp=sharing7022257793",
+    link: "https://drive.google.com/file/d/13K--x_op33b2L03GtvSBFwP3Vda0giG5/view?usp=sharing",
   },
 ];
 
