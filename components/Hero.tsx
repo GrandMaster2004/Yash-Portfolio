@@ -60,9 +60,12 @@ const Hero = () => {
             I specialize in Django, React, JavaScript, and modern UI/UX design.
           </p>
 
-          <a href="#about">
+          <a
+            href="https://drive.google.com/file/d/13K--x_op33b2L03GtvSBFwP3Vda0giG5/view?usp=sharing"
+            target="_blank"
+          >
             <MagicButton
-              title="Show my work"
+              title="My Resume"
               icon={<FaLocationArrow />}
               position="right"
             />

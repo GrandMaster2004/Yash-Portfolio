@@ -1,10 +1,19 @@
 export const navItems = [
-  { name: "Yash Vardhan", link: "" },
-  { name: "9580341946", link: "" },
-  // { name: "Testimonials", link: "#testimonials" },
   {
-    name: "Resume",
-    link: "https://drive.google.com/file/d/13K--x_op33b2L03GtvSBFwP3Vda0giG5/view?usp=sharing",
+    name: "Home",
+    link: "#",
+  },
+  {
+    name: "About",
+    link: "#",
+  },
+  {
+    name: "Testimonials",
+    link: "#",
+  },
+  {
+    name: "Contact",
+    link: "#",
   },
 ];
 
